@@ -1,3 +1,3 @@
-export default function Dashboard() {
-  return <p>Dashboard Page</p>;
+export default async function Dashboard() {
+  return <h1>This is Dashboard Page</h1>;
 }
